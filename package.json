@@ -1,0 +1,24 @@
+{
+  "name": "artem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.1",
+    "erela.js": "^2.0.1",
+    "erela.js-spotify": "^1.0.2",
+    "formatnumbers": "^1.0.1",
+    "lavalink": "^2.10.2",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "youtube-search": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Volan4ik",
+  "license": "ISC"
+}
